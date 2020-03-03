@@ -3,11 +3,11 @@
 #Designed by Minkai  
   
 
-> This program is for student or stuff ,which want to install  Office
-> 2019 Enterprise version.      Because Microsoft only provide
-> Enterprise user install Office by using deployment tool,   this tool
-> is unfriendly and unconvience use by normal userso, i develope this
-> setup GUI    ,which is easy used and this can select the programs you
+> This program is for student or stuff ,which want to install  Office 2019 Enterprise version.      
+>  
+> Because Microsoft only provide Enterprise user install Office by using 
+> deployment tool, this tool is unfriendly and unconvience use by normal user so, i develope this
+> setup GUI , which is easy used and this can select the programs you
 > want to install,and also some    fixup tool and troubleshoot software
 > inside.
 
