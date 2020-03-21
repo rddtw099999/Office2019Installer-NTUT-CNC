@@ -29,5 +29,8 @@
   
   
 KMS server:kms.ntut.edu.tw (only allow campus cable network )  
-
+![enter image description here](![](https://i.imgur.com/w9pujzQ.png)
+![enter image description here](![](https://i.imgur.com/ptXlSzR.png)
+![enter image description here](![](https://i.imgur.com/lazZM8Y.png)
+![enter image description here](![](https://i.imgur.com/LxlvKM6.png)
 
